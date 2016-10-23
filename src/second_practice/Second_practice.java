@@ -25,6 +25,7 @@ public class Second_practice {
         System.out.println("Farenhite ="+farenhite);
         Value a =new Value();
         a.reasult();
+        //comment
         Meater_reasult b=new Meater_reasult();
         b.meater();
         kilogram c=new kilogram();
